@@ -1,5 +1,7 @@
 # rdkafka Consumer Class
 
+A simple demo demonstrate Apache Kafka comsumer using rdkafka 
+
 # Confluent
 Required Ports:
 - 9092 - broker
